@@ -1,3 +1,3 @@
 # Hello World!
 
-# Welcme to rm-ds
+# Welcome to rm-ds
